@@ -38,7 +38,7 @@ O banco de dados foi desenvolvido com base em um modelo ER e implementado no **O
 | David Bryan   | RM565407  | [LinkedIn](https://www.linkedin.com/in/david-sales-60255766/) |
 | Barbara Ayumi   | RM565513  | [LinkedIn](https://www.linkedin.com/in/barbara-ayumi-106851262/) |
 | Matheus Santos | RM562378 | [LinkedIn]()         |
-| Ana Carvalho | RM561917 | [LinkedIn] (https://www.linkedin.com/in/ana-carolina-c-de-paula-153465229/) |
+| Ana Carvalho | RM561917 | [LinkedIn](https://www.linkedin.com/in/ana-carolina-c-de-paula-153465229/) |
 
 ---
 
