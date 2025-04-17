@@ -35,10 +35,10 @@ O banco de dados foi desenvolvido com base em um modelo ER e implementado no **O
 
 | Nome Completo       | RM        | LinkedIn                             |
 |---------------------|-----------|--------------------------------------|
-| David Bryan   | RM565407  | [linkedin](https://www.linkedin.com/in/david-sales-60255766/) |
-| Barbara Ayumi   | RM565513  | [linkedin](https://www.linkedin.com/in/barbara-ayumi-106851262/) |
-| Matheus Santos | RM562378 | [linkedin]()         |
-| Ana Carvalho | RM561917 | [linkedin] (https://www.linkedin.com/in/ana-carolina-c-de-paula-153465229/) |
+| David Bryan   | RM565407  | [LinkedIn](https://www.linkedin.com/in/david-sales-60255766/) |
+| Barbara Ayumi   | RM565513  | [LinkedIn](https://www.linkedin.com/in/barbara-ayumi-106851262/) |
+| Matheus Santos | RM562378 | [LinkedIn]()         |
+| Ana Carvalho | RM561917 | [LinkedIn] (https://www.linkedin.com/in/ana-carolina-c-de-paula-153465229/) |
 
 ---
 
