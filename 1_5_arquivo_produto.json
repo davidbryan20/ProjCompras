@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "celular ",
+        "preco": 1800.0,
+        "tipo": "caixa ",
+        "icms": 324.0
+    },
+    {
+        "nome": "iphone",
+        "preco": 5000.0,
+        "tipo": "caixa",
+        "icms": 900.0
+    },
+    {
+        "nome": "xiaomi ",
+        "preco": 2000.0,
+        "tipo": "prata",
+        "icms": 360.0
+    },
+    {
+        "nome": "samsung ",
+        "preco": 2500.0,
+        "tipo": "caixa ",
+        "icms": 450.0
+    },
+    {
+        "nome": "iphone 15",
+        "preco": 8000.0,
+        "tipo": "caixa ",
+        "icms": 1440.0
+    }
+]
